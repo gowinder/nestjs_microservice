@@ -1,0 +1,1 @@
+export const SLAVE_SERVICE = 'SLAVE_SERVICE';
